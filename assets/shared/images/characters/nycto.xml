@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nycto.png"><SubTexture name="nycto idle0000" x="0" y="0" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto idle0001" x="646" y="0" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto idle0002" x="1292" y="0" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto idle0003" x="1938" y="0" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto left0000" x="0" y="640" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto left0001" x="646" y="640" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto left0002" x="1292" y="640" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto down0000" x="1938" y="640" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto down0001" x="0" y="1280" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto down0002" x="646" y="1280" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto up0000" x="1292" y="1280" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto up0001" x="1938" y="1280" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto up0002" x="0" y="1920" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto right0000" x="646" y="1920" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto right0001" x="1292" y="1920" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto right0002" x="1938" y="1920" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto laugh0000" x="0" y="2560" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto laugh0001" x="646" y="2560" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+<SubTexture name="nycto laugh0002" x="1292" y="2560" width="646" height="640" frameX="0" frameY="0" frameWidth="646" frameHeight="640" />
+</TextureAtlas>
